@@ -1,2 +1,7 @@
-Investigación para Biomecanica
-El equipo se esta adaptando a Github
+{ff2,
+         author =  {Alfredo Cárdenas Mena ; A ;A ;A ;A },
+         title = {Introducción a la biomecánica)},
+         year = 2022,
+         month = {Agosto},
+
+    }
