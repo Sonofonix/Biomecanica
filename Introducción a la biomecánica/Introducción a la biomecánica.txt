@@ -1,5 +1,5 @@
 {ff2,
-         author =  {Alfredo Cárdenas Mena ; A ;A ;A ;A },
+         author =  {Alfredo Cárdenas Mena ; Aarón Lozano Aguiar ;A ;A ;A },
          title = {Introducción a la biomecánica)},
          year = 2022,
          month = {Agosto},
